@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="816" viewBox="0 0 980 816"><defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3b4a41"/></marker>
+<marker id="open" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="10" markerHeight="10" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10" fill="none" stroke="#3b4a41" stroke-width="1.3"/></marker>
+<marker id="tri" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="13" markerHeight="13" orient="auto-start-reverse"><path d="M0,0 L12,6 L0,12 z" fill="white" stroke="#3b4a41" stroke-width="1.2"/></marker>
+<marker id="dia" viewBox="0 0 16 10" refX="1" refY="5" markerWidth="16" markerHeight="10" orient="auto-start-reverse"><path d="M1,5 L8,1 L15,5 L8,9 z" fill="white" stroke="#3b4a41" stroke-width="1.1"/></marker>
+<marker id="fdia" viewBox="0 0 16 10" refX="1" refY="5" markerWidth="16" markerHeight="10" orient="auto-start-reverse"><path d="M1,5 L8,1 L15,5 L8,9 z" fill="#3b4a41" stroke="#3b4a41" stroke-width="1.1"/></marker>
+<marker id="crow" viewBox="0 0 14 14" refX="13" refY="7" markerWidth="14" markerHeight="14" orient="auto-start-reverse"><path d="M13,7 L1,1 M13,7 L1,13 M13,7 L1,7 M4,1 L4,13" fill="none" stroke="#3b4a41" stroke-width="1.1"/></marker>
+<marker id="one" viewBox="0 0 14 14" refX="13" refY="7" markerWidth="14" markerHeight="14" orient="auto-start-reverse"><path d="M13,7 L1,7 M6,1 L6,13 M10,1 L10,13" fill="none" stroke="#3b4a41" stroke-width="1.1"/></marker>
+</defs><rect width="100%" height="100%" fill="white"/>
+<line x1="80.0" y1="100.0" x2="80.0" y2="746.0" stroke="#8a9a90" stroke-width="1.2" stroke-dasharray="5,4"/>
+<circle cx="80.0" cy="34.0" r="8" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="80.0" y1="42.0" x2="80.0" y2="64.0" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="66.0" y1="50.0" x2="94.0" y2="50.0" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="80.0" y1="64.0" x2="69.0" y2="80.0" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="80.0" y1="64.0" x2="91.0" y2="80.0" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="80.0" y="96.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">Farm Owner</text>
+<circle cx="80.0" cy="747.0" r="8" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="80.0" y1="755.0" x2="80.0" y2="777.0" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="66.0" y1="763.0" x2="94.0" y2="763.0" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="80.0" y1="777.0" x2="69.0" y2="793.0" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="80.0" y1="777.0" x2="91.0" y2="793.0" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="80.0" y="809.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">Farm Owner</text>
+<line x1="265.0" y1="100.0" x2="265.0" y2="746.0" stroke="#8a9a90" stroke-width="1.2" stroke-dasharray="5,4"/>
+<rect x="215.9" y="52.0" width="98.2" height="28.0" rx="3" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="265.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">Register Page</text>
+<rect x="215.9" y="763.0" width="98.2" height="28.0" rx="3" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="265.0" y="781.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">Register Page</text>
+<line x1="450.0" y1="100.0" x2="450.0" y2="746.0" stroke="#8a9a90" stroke-width="1.2" stroke-dasharray="5,4"/>
+<rect x="414.1" y="52.0" width="71.8" height="28.0" rx="3" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="450.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">Auth API</text>
+<rect x="414.1" y="763.0" width="71.8" height="28.0" rx="3" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="450.0" y="781.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">Auth API</text>
+<line x1="635.0" y1="100.0" x2="635.0" y2="746.0" stroke="#8a9a90" stroke-width="1.2" stroke-dasharray="5,4"/>
+<rect x="566.2" y="52.0" width="137.6" height="28.0" rx="3" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="635.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">Organization Service</text>
+<rect x="566.2" y="763.0" width="137.6" height="28.0" rx="3" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="635.0" y="781.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">Organization Service</text>
+<line x1="820.0" y1="100.0" x2="820.0" y2="746.0" stroke="#8a9a90" stroke-width="1.2" stroke-dasharray="5,4"/>
+<rect x="784.0" y="52.0" width="71.9" height="28.0" rx="3" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="820.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">MongoDB</text>
+<rect x="784.0" y="763.0" width="71.9" height="28.0" rx="3" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="820.0" y="781.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">MongoDB</text>
+<rect x="260.0" y="104.0" width="10.0" height="596.0" rx="0" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="445.0" y="240.0" width="10.0" height="402.0" rx="0" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="630.0" y="424.0" width="10.0" height="116.0" rx="0" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="815.0" y="274.0" width="10.0" height="300.0" rx="0" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="195.0" y="344.0" width="695.0" height="320.0" rx="0" fill="none" stroke="#3b4a41" stroke-width="1"/>
+<path d="M195,344 h34 v10 l-6,6 h-28 z" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1"/>
+<text x="201.0" y="356.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="start" style="font-weight:bold">alt</text>
+<text x="235.0" y="356.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="start" style="font-style:italic">[email exists?]</text>
+<line x1="195.0" y1="406.0" x2="890.0" y2="406.0" stroke="#3b4a41" stroke-width="1.2" stroke-dasharray="6,4"/>
+<text x="201.0" y="419.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="start" style="font-style:italic">[new email]</text>
+<line x1="85.0" y1="110.0" x2="260.0" y2="110.0" stroke="#3b4a41" stroke-width="1.2" marker-end="url(#arrow)"/>
+<rect x="117.5" y="95.0" width="110.1" height="12.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="172.5" y="105.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="middle" style="">open registration form</text>
+<line x1="260.0" y1="144.0" x2="85.0" y2="144.0" stroke="#3b4a41" stroke-width="1.2" stroke-dasharray="6,4" marker-end="url(#open)"/>
+<rect x="141.1" y="129.0" width="62.8" height="12.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="172.5" y="139.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="middle" style="font-style:italic">display form</text>
+<line x1="85.0" y1="178.0" x2="260.0" y2="178.0" stroke="#3b4a41" stroke-width="1.2" marker-end="url(#arrow)"/>
+<rect x="84.9" y="163.0" width="175.2" height="12.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="172.5" y="173.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="middle" style="">submit name, email, farm, password</text>
+<path d="M270,212 h34 v16 h-29" fill="none" stroke="#3b4a41" stroke-width="1.2" marker-end="url(#arrow)"/>
+<text x="309.0" y="216.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="start" style="">validate (zod)</text>
+<line x1="270.0" y1="246.0" x2="445.0" y2="246.0" stroke="#3b4a41" stroke-width="1.2" marker-end="url(#arrow)"/>
+<rect x="305.8" y="231.0" width="103.5" height="12.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="357.5" y="241.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="middle" style="">POST /auth/register</text>
+<line x1="455.0" y1="280.0" x2="815.0" y2="280.0" stroke="#3b4a41" stroke-width="1.2" marker-end="url(#arrow)"/>
+<rect x="591.0" y="265.0" width="87.9" height="12.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="635.0" y="275.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="middle" style="">find user by email</text>
+<line x1="815.0" y1="314.0" x2="455.0" y2="314.0" stroke="#3b4a41" stroke-width="1.2" stroke-dasharray="6,4" marker-end="url(#open)"/>
+<rect x="619.0" y="299.0" width="32.0" height="12.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="635.0" y="309.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="middle" style="font-style:italic">result</text>
+<line x1="445.0" y1="372.0" x2="270.0" y2="372.0" stroke="#3b4a41" stroke-width="1.2" stroke-dasharray="6,4" marker-end="url(#open)"/>
+<rect x="287.3" y="357.0" width="140.4" height="12.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="357.5" y="367.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="middle" style="font-style:italic">409 email already registered</text>
+<line x1="455.0" y1="430.0" x2="630.0" y2="430.0" stroke="#3b4a41" stroke-width="1.2" marker-end="url(#arrow)"/>
+<rect x="449.9" y="415.0" width="185.2" height="12.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="542.5" y="425.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="middle" style="">create organization + starter varieties</text>
+<line x1="640.0" y1="464.0" x2="815.0" y2="464.0" stroke="#3b4a41" stroke-width="1.2" marker-end="url(#arrow)"/>
+<rect x="642.8" y="449.0" width="169.4" height="12.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="727.5" y="459.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="middle" style="">insert organization, varieties, farm</text>
+<line x1="815.0" y1="498.0" x2="640.0" y2="498.0" stroke="#3b4a41" stroke-width="1.2" stroke-dasharray="6,4" marker-end="url(#open)"/>
+<rect x="718.5" y="483.0" width="18.0" height="12.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="727.5" y="493.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="middle" style="font-style:italic">ids</text>
+<line x1="630.0" y1="532.0" x2="455.0" y2="532.0" stroke="#3b4a41" stroke-width="1.2" stroke-dasharray="6,4" marker-end="url(#open)"/>
+<rect x="526.1" y="517.0" width="32.8" height="12.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="542.5" y="527.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="middle" style="font-style:italic">orgId</text>
+<line x1="455.0" y1="566.0" x2="815.0" y2="566.0" stroke="#3b4a41" stroke-width="1.2" marker-end="url(#arrow)"/>
+<rect x="528.6" y="551.0" width="212.7" height="12.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="635.0" y="561.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="middle" style="">insert user (hashed password, farm_owner)</text>
+<path d="M455,600 h34 v16 h-29" fill="none" stroke="#3b4a41" stroke-width="1.2" marker-end="url(#arrow)"/>
+<text x="494.0" y="604.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="start" style="">issue JWT access + refresh</text>
+<line x1="445.0" y1="634.0" x2="270.0" y2="634.0" stroke="#3b4a41" stroke-width="1.2" stroke-dasharray="6,4" marker-end="url(#open)"/>
+<rect x="314.1" y="619.0" width="86.9" height="12.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="357.5" y="629.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="middle" style="font-style:italic">201 user + tokens</text>
+<line x1="260.0" y1="692.0" x2="85.0" y2="692.0" stroke="#3b4a41" stroke-width="1.2" stroke-dasharray="6,4" marker-end="url(#open)"/>
+<rect x="119.2" y="677.0" width="106.6" height="12.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="172.5" y="687.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="middle" style="font-style:italic">redirect to dashboard</text>
+</svg>

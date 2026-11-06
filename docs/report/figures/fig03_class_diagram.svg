@@ -1,0 +1,301 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1730" height="1130" viewBox="0 0 1730 1130"><defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3b4a41"/></marker>
+<marker id="open" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="10" markerHeight="10" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10" fill="none" stroke="#3b4a41" stroke-width="1.3"/></marker>
+<marker id="tri" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="13" markerHeight="13" orient="auto-start-reverse"><path d="M0,0 L12,6 L0,12 z" fill="white" stroke="#3b4a41" stroke-width="1.2"/></marker>
+<marker id="dia" viewBox="0 0 16 10" refX="1" refY="5" markerWidth="16" markerHeight="10" orient="auto-start-reverse"><path d="M1,5 L8,1 L15,5 L8,9 z" fill="white" stroke="#3b4a41" stroke-width="1.1"/></marker>
+<marker id="fdia" viewBox="0 0 16 10" refX="1" refY="5" markerWidth="16" markerHeight="10" orient="auto-start-reverse"><path d="M1,5 L8,1 L15,5 L8,9 z" fill="#3b4a41" stroke="#3b4a41" stroke-width="1.1"/></marker>
+<marker id="crow" viewBox="0 0 14 14" refX="13" refY="7" markerWidth="14" markerHeight="14" orient="auto-start-reverse"><path d="M13,7 L1,1 M13,7 L1,13 M13,7 L1,7 M4,1 L4,13" fill="none" stroke="#3b4a41" stroke-width="1.1"/></marker>
+<marker id="one" viewBox="0 0 14 14" refX="13" refY="7" markerWidth="14" markerHeight="14" orient="auto-start-reverse"><path d="M13,7 L1,7 M6,1 L6,13 M10,1 L10,13" fill="none" stroke="#3b4a41" stroke-width="1.1"/></marker>
+</defs><rect width="100%" height="100%" fill="white"/>
+<line x1="590.0" y1="97.9" x2="455.2" y2="108.9" stroke="#3b4a41" stroke-width="1.2" marker-start="url(#dia)"/>
+<rect x="500.1" y="89.4" width="45.0" height="14.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="522.6" y="99.4" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-style:italic">employs</text>
+<text x="573.3" y="94.3" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-weight:bold">1</text>
+<text x="471.8" y="120.6" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-weight:bold">*</text>
+<line x1="723.4" y1="96.1" x2="875.0" y2="104.3" stroke="#3b4a41" stroke-width="1.2" marker-start="url(#dia)"/>
+<rect x="783.7" y="86.2" width="31.0" height="14.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="799.2" y="96.2" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-style:italic">owns</text>
+<text x="738.9" y="109.9" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-weight:bold">1</text>
+<text x="859.5" y="98.4" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-weight:bold">*</text>
+<line x1="592.1" y1="165.0" x2="429.4" y2="347.7" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="491.3" y="242.3" width="39.0" height="14.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="510.8" y="252.3" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-style:italic">serves</text>
+<text x="574.8" y="175.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-weight:bold">1</text>
+<text x="446.8" y="345.7" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-weight:bold">*</text>
+<line x1="305.0" y1="109.3" x2="150.7" y2="97.5" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="204.1" y="89.4" width="47.5" height="14.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="227.8" y="99.4" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-style:italic">receives</text>
+<text x="289.7" y="103.1" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-weight:bold">1</text>
+<text x="165.9" y="111.7" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-weight:bold">*</text>
+<line x1="994.9" y1="106.0" x2="1160.0" y2="101.8" stroke="#3b4a41" stroke-width="1.2" marker-start="url(#fdia)"/>
+<rect x="1066.2" y="89.9" width="22.5" height="14.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="1077.5" y="99.9" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-style:italic">has</text>
+<text x="1011.1" y="118.6" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-weight:bold">1</text>
+<text x="1143.8" y="97.2" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-weight:bold">*</text>
+<line x1="875.0" y1="171.8" x2="713.4" y2="345.0" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="775.9" y="244.4" width="36.5" height="14.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="794.2" y="254.4" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-style:italic">incurs</text>
+<text x="857.5" y="181.3" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-weight:bold">1</text>
+<text x="730.9" y="343.4" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-weight:bold">*</text>
+<line x1="935.6" y1="195.0" x2="936.7" y2="345.0" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="917.9" y="256.0" width="36.5" height="14.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="936.1" y="266.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-style:italic">stores</text>
+<text x="926.7" y="215.1" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-weight:bold">1</text>
+<text x="945.6" y="332.9" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-weight:bold">*</text>
+<line x1="1232.3" y1="180.0" x2="1237.1" y2="345.0" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="1219.2" y="248.5" width="31.0" height="14.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="1234.7" y="258.5" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-style:italic">hosts</text>
+<text x="1223.7" y="200.3" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-weight:bold">1</text>
+<text x="1245.6" y="332.7" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-weight:bold">*</text>
+<line x1="1454.2" y1="180.0" x2="1320.9" y2="356.2" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="1362.2" y="254.1" width="50.8" height="14.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="1387.6" y="264.1" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-style:italic">of variety</text>
+<text x="1437.4" y="191.3" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-weight:bold">1</text>
+<text x="1337.8" y="352.8" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-weight:bold">*</text>
+<line x1="1320.9" y1="446.5" x2="1445.0" y2="421.7" stroke="#3b4a41" stroke-width="1.2" marker-start="url(#fdia)"/>
+<text x="1338.4" y="456.1" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-weight:bold">1</text>
+<text x="1427.5" y="420.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-weight:bold">*</text>
+<line x1="1320.9" y1="568.2" x2="1466.9" y2="760.0" stroke="#3b4a41" stroke-width="1.2" marker-start="url(#fdia)"/>
+<text x="1323.5" y="590.4" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-weight:bold">1</text>
+<text x="1464.3" y="745.8" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-weight:bold">*</text>
+<line x1="1160.0" y1="570.0" x2="1007.0" y2="774.3" stroke="#3b4a41" stroke-width="1.2" marker-start="url(#fdia)"/>
+<rect x="1063.8" y="658.2" width="39.5" height="14.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="1083.5" y="668.2" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-style:italic">flushes</text>
+<text x="1143.2" y="581.4" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-weight:bold">1</text>
+<text x="1023.8" y="770.9" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-weight:bold">*</text>
+<line x1="875.0" y1="857.2" x2="729.5" y2="845.6" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="767.3" y="837.4" width="69.8" height="14.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="802.2" y="847.4" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-style:italic">approved into</text>
+<text x="859.8" y="851.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-weight:bold">1</text>
+<text x="744.7" y="859.8" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-weight:bold">0..1</text>
+<line x1="453.8" y1="862.0" x2="590.0" y2="847.5" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="497.9" y="840.7" width="48.0" height="14.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="521.9" y="850.7" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-style:italic">allocates</text>
+<text x="470.7" y="873.3" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-weight:bold">*</text>
+<text x="573.1" y="844.2" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-weight:bold">*</text>
+<line x1="369.2" y1="490.0" x2="376.4" y2="760.0" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="354.6" y="611.0" width="36.5" height="14.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="372.8" y="621.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-style:italic">places</text>
+<text x="360.6" y="510.2" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-weight:bold">1</text>
+<text x="385.0" y="747.8" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-weight:bold">*</text>
+<line x1="85.3" y1="473.0" x2="92.4" y2="760.0" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="65.1" y="602.5" width="47.5" height="14.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="88.9" y="612.5" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-style:italic">assigned</text>
+<text x="76.7" y="493.2" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-weight:bold">1</text>
+<text x="101.0" y="747.8" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#4a5a50" text-anchor="middle" style="font-weight:bold">*</text>
+<rect x="20.0" y="20.0" width="130.7" height="145.0" rx="0" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="20.0" y="20.0" width="130.7" height="24.0" rx="0" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="85.3" y="37.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">Notification</text>
+<text x="28.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- id : ObjectId</text>
+<text x="28.0" y="71.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- farmId : ObjectId</text>
+<text x="28.0" y="86.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- type : String</text>
+<text x="28.0" y="101.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- title : String</text>
+<text x="28.0" y="116.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- roles : String[]</text>
+<text x="28.0" y="131.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- readBy : ObjectId[]</text>
+<line x1="20.0" y1="140.0" x2="150.7" y2="140.0" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="28.0" y="152.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">+ markRead(user)</text>
+<rect x="305.0" y="20.0" width="150.2" height="190.0" rx="0" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="305.0" y="20.0" width="150.2" height="24.0" rx="0" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="380.1" y="37.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">User</text>
+<text x="313.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- id : ObjectId</text>
+<text x="313.0" y="71.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- name : String</text>
+<text x="313.0" y="86.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- email : String</text>
+<text x="313.0" y="101.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- passwordHash : String</text>
+<text x="313.0" y="116.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- role : Role</text>
+<text x="313.0" y="131.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- orgId : ObjectId</text>
+<text x="313.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- farmIds : ObjectId[]</text>
+<line x1="305.0" y1="155.0" x2="455.2" y2="155.0" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="313.0" y="167.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">+ register()</text>
+<text x="313.0" y="182.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">+ login()</text>
+<text x="313.0" y="197.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">+ updateProfile()</text>
+<rect x="590.0" y="20.0" width="133.4" height="145.0" rx="0" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="590.0" y="20.0" width="133.4" height="24.0" rx="0" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="656.7" y="37.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">Organization</text>
+<text x="598.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- id : ObjectId</text>
+<text x="598.0" y="71.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- name : String</text>
+<text x="598.0" y="86.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- status : String</text>
+<text x="598.0" y="101.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- ownerId : ObjectId</text>
+<line x1="590.0" y1="110.0" x2="723.4" y2="110.0" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="598.0" y="122.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">+ create()</text>
+<text x="598.0" y="137.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">+ suspend()</text>
+<text x="598.0" y="152.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">+ reactivate()</text>
+<rect x="875.0" y="20.0" width="119.9" height="175.0" rx="0" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="875.0" y="20.0" width="119.9" height="24.0" rx="0" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="935.0" y="37.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">Farm</text>
+<text x="883.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- id : ObjectId</text>
+<text x="883.0" y="71.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- orgId : ObjectId</text>
+<text x="883.0" y="86.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- code : String</text>
+<text x="883.0" y="101.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- name : String</text>
+<text x="883.0" y="116.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- location : String</text>
+<text x="883.0" y="131.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- sizeSqm : Double</text>
+<text x="883.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- status : String</text>
+<line x1="875.0" y1="155.0" x2="994.9" y2="155.0" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="883.0" y="167.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">+ addRoom()</text>
+<text x="883.0" y="182.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">+ getStatistics()</text>
+<rect x="1160.0" y="20.0" width="139.9" height="160.0" rx="0" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="1160.0" y="20.0" width="139.9" height="24.0" rx="0" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="1230.0" y="37.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">CultivationRoom</text>
+<text x="1168.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- id : ObjectId</text>
+<text x="1168.0" y="71.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- farmId : ObjectId</text>
+<text x="1168.0" y="86.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- code : String</text>
+<text x="1168.0" y="101.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- capacityBags : Int</text>
+<text x="1168.0" y="116.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- temperature : Double</text>
+<text x="1168.0" y="131.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- humidity : Double</text>
+<text x="1168.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- ventilation : String</text>
+<line x1="1160.0" y1="155.0" x2="1299.9" y2="155.0" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="1168.0" y="167.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">+ occupancy()</text>
+<rect x="1445.0" y="20.0" width="139.5" height="160.0" rx="0" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="1445.0" y="20.0" width="139.5" height="24.0" rx="0" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="1514.7" y="37.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">MushroomVariety</text>
+<text x="1453.0" y="56.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- id : ObjectId</text>
+<text x="1453.0" y="71.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- orgId : ObjectId</text>
+<text x="1453.0" y="86.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- name : String</text>
+<text x="1453.0" y="101.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- incubationDays : Int</text>
+<text x="1453.0" y="116.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- fruitingDays : Int</text>
+<text x="1453.0" y="131.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- yieldPerBag : Double</text>
+<text x="1453.0" y="146.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- pricePerKg : Double</text>
+<line x1="1445.0" y1="155.0" x2="1584.5" y2="155.0" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="1453.0" y="167.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">+ expectedYield(bags)</text>
+<rect x="20.0" y="345.0" width="127.4" height="128.0" rx="0" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="20.0" y="345.0" width="127.4" height="24.0" rx="0" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="83.7" y="362.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">Employee</text>
+<text x="28.0" y="381.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- id : ObjectId</text>
+<text x="28.0" y="396.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- farmId : ObjectId</text>
+<text x="28.0" y="411.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- name : String</text>
+<text x="28.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- position : String</text>
+<text x="28.0" y="441.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- roomId : ObjectId</text>
+<text x="28.0" y="456.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- status : String</text>
+<rect x="305.0" y="345.0" width="124.4" height="145.0" rx="0" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="305.0" y="345.0" width="124.4" height="24.0" rx="0" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="367.2" y="362.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">Customer</text>
+<text x="313.0" y="381.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- id : ObjectId</text>
+<text x="313.0" y="396.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- orgId : ObjectId</text>
+<text x="313.0" y="411.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- name : String</text>
+<text x="313.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- type : String</text>
+<text x="313.0" y="441.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- phone : String</text>
+<text x="313.0" y="456.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- email : String</text>
+<line x1="305.0" y1="465.0" x2="429.4" y2="465.0" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="313.0" y="477.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">+ purchaseHistory()</text>
+<rect x="590.0" y="345.0" width="127.4" height="128.0" rx="0" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="590.0" y="345.0" width="127.4" height="24.0" rx="0" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="653.7" y="362.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">Expense</text>
+<text x="598.0" y="381.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- id : ObjectId</text>
+<text x="598.0" y="396.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- farmId : ObjectId</text>
+<text x="598.0" y="411.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- category : String</text>
+<text x="598.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- amount : Double</text>
+<text x="598.0" y="441.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- date : Date</text>
+<text x="598.0" y="456.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- batchId : ObjectId</text>
+<rect x="875.0" y="345.0" width="124.6" height="175.0" rx="0" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="875.0" y="345.0" width="124.6" height="24.0" rx="0" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="937.3" y="362.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">InventoryItem</text>
+<text x="883.0" y="381.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- id : ObjectId</text>
+<text x="883.0" y="396.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- farmId : ObjectId</text>
+<text x="883.0" y="411.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- sku : String</text>
+<text x="883.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- category : String</text>
+<text x="883.0" y="441.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- quantity : Double</text>
+<text x="883.0" y="456.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- minLevel : Double</text>
+<line x1="875.0" y1="465.0" x2="999.6" y2="465.0" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="883.0" y="477.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">+ receive(qty)</text>
+<text x="883.0" y="492.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">+ consume(qty)</text>
+<text x="883.0" y="507.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">+ isLow()</text>
+<rect x="1160.0" y="345.0" width="160.9" height="235.0" rx="0" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="1160.0" y="345.0" width="160.9" height="24.0" rx="0" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="1240.5" y="362.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">ProductionBatch</text>
+<text x="1168.0" y="381.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- id : ObjectId</text>
+<text x="1168.0" y="396.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- code : String</text>
+<text x="1168.0" y="411.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- farmId : ObjectId</text>
+<text x="1168.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- roomId : ObjectId</text>
+<text x="1168.0" y="441.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- varietyId : ObjectId</text>
+<text x="1168.0" y="456.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- bags : Int</text>
+<text x="1168.0" y="471.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- spawningDate : Date</text>
+<text x="1168.0" y="486.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- stage : Stage</text>
+<text x="1168.0" y="501.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- expectedYieldKg : Double</text>
+<text x="1168.0" y="516.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- harvestedKg : Double</text>
+<line x1="1160.0" y1="525.0" x2="1320.9" y2="525.0" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="1168.0" y="537.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">+ changeStage(stage)</text>
+<text x="1168.0" y="552.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">+ addObservation()</text>
+<text x="1168.0" y="567.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">+ flags()</text>
+<rect x="1445.0" y="345.0" width="127.4" height="128.0" rx="0" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="1445.0" y="345.0" width="127.4" height="24.0" rx="0" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="1508.7" y="362.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">StageHistory</text>
+<text x="1453.0" y="381.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- batchId : ObjectId</text>
+<text x="1453.0" y="396.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- from : Stage</text>
+<text x="1453.0" y="411.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- to : Stage</text>
+<text x="1453.0" y="426.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- at : DateTime</text>
+<text x="1453.0" y="441.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- by : String</text>
+<text x="1453.0" y="456.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- notes : String</text>
+<rect x="20.0" y="760.0" width="148.8" height="160.0" rx="0" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="20.0" y="760.0" width="148.8" height="24.0" rx="0" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="94.4" y="777.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">Task</text>
+<text x="28.0" y="796.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- id : ObjectId</text>
+<text x="28.0" y="811.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- farmId : ObjectId</text>
+<text x="28.0" y="826.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- title : String</text>
+<text x="28.0" y="841.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- employeeId : ObjectId</text>
+<text x="28.0" y="856.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- dueDate : Date</text>
+<text x="28.0" y="871.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- priority : String</text>
+<text x="28.0" y="886.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- status : String</text>
+<line x1="20.0" y1="895.0" x2="168.8" y2="895.0" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="28.0" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">+ complete()</text>
+<rect x="305.0" y="760.0" width="148.8" height="220.0" rx="0" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="305.0" y="760.0" width="148.8" height="24.0" rx="0" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="379.4" y="777.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">SalesOrder</text>
+<text x="313.0" y="796.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- id : ObjectId</text>
+<text x="313.0" y="811.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- number : String</text>
+<text x="313.0" y="826.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- customerId : ObjectId</text>
+<text x="313.0" y="841.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- farmId : ObjectId</text>
+<text x="313.0" y="856.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- items : SaleItem[]</text>
+<text x="313.0" y="871.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- total : Double</text>
+<text x="313.0" y="886.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- paid : Double</text>
+<text x="313.0" y="901.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- paymentStatus : String</text>
+<line x1="305.0" y1="910.0" x2="453.8" y2="910.0" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="313.0" y="922.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">+ create()</text>
+<text x="313.0" y="937.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">+ addPayment(amount)</text>
+<text x="313.0" y="952.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">+ cancel()</text>
+<text x="313.0" y="967.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">+ return()</text>
+<rect x="590.0" y="760.0" width="139.5" height="160.0" rx="0" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="590.0" y="760.0" width="139.5" height="24.0" rx="0" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="659.7" y="777.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">StockLot</text>
+<text x="598.0" y="796.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- id : ObjectId</text>
+<text x="598.0" y="811.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- harvestId : ObjectId</text>
+<text x="598.0" y="826.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- varietyId : ObjectId</text>
+<text x="598.0" y="841.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- grade : String</text>
+<text x="598.0" y="856.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- availableKg : Double</text>
+<text x="598.0" y="871.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- expiryDate : Date</text>
+<line x1="590.0" y1="880.0" x2="729.5" y2="880.0" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="598.0" y="892.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">+ allocate(kg)</text>
+<text x="598.0" y="907.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">+ release(kg)</text>
+<rect x="875.0" y="760.0" width="132.0" height="205.0" rx="0" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="875.0" y="760.0" width="132.0" height="24.0" rx="0" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="941.0" y="777.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">Harvest</text>
+<text x="883.0" y="796.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- id : ObjectId</text>
+<text x="883.0" y="811.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- code : String</text>
+<text x="883.0" y="826.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- batchId : ObjectId</text>
+<text x="883.0" y="841.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- flush : Int</text>
+<text x="883.0" y="856.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- weightKg : Double</text>
+<text x="883.0" y="871.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- grade : String</text>
+<text x="883.0" y="886.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- rejectedKg : Double</text>
+<text x="883.0" y="901.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- status : String</text>
+<line x1="875.0" y1="910.0" x2="1007.0" y2="910.0" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="883.0" y="922.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">+ submit()</text>
+<text x="883.0" y="937.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">+ approve()</text>
+<text x="883.0" y="952.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">+ reject()</text>
+<rect x="1160.0" y="880.0" width="140.0" height="128.0" rx="0" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="1160.0" y="880.0" width="140.0" height="24.0" rx="0" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="1230.0" y="897.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">AuditLog</text>
+<text x="1168.0" y="916.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- action : String</text>
+<text x="1168.0" y="931.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- entity : String</text>
+<text x="1168.0" y="946.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- entityId : ObjectId</text>
+<text x="1168.0" y="961.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- userId : ObjectId</text>
+<text x="1168.0" y="976.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- orgId : ObjectId</text>
+<text x="1168.0" y="991.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- createdAt : DateTime</text>
+<rect x="1445.0" y="760.0" width="152.6" height="143.0" rx="0" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="1445.0" y="760.0" width="152.6" height="24.0" rx="0" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="1521.3" y="777.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">GrowthObservation</text>
+<text x="1453.0" y="796.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- batchId : ObjectId</text>
+<text x="1453.0" y="811.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- date : Date</text>
+<text x="1453.0" y="826.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- temperature : Double</text>
+<text x="1453.0" y="841.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- humidity : Double</text>
+<text x="1453.0" y="856.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- condition : String</text>
+<text x="1453.0" y="871.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- contamination : Boolean</text>
+<text x="1453.0" y="886.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="start" style="">- affectedBags : Int</text>
+</svg>

@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="714" viewBox="0 0 1000 714"><defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3b4a41"/></marker>
+<marker id="open" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="10" markerHeight="10" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10" fill="none" stroke="#3b4a41" stroke-width="1.3"/></marker>
+<marker id="tri" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="13" markerHeight="13" orient="auto-start-reverse"><path d="M0,0 L12,6 L0,12 z" fill="white" stroke="#3b4a41" stroke-width="1.2"/></marker>
+<marker id="dia" viewBox="0 0 16 10" refX="1" refY="5" markerWidth="16" markerHeight="10" orient="auto-start-reverse"><path d="M1,5 L8,1 L15,5 L8,9 z" fill="white" stroke="#3b4a41" stroke-width="1.1"/></marker>
+<marker id="fdia" viewBox="0 0 16 10" refX="1" refY="5" markerWidth="16" markerHeight="10" orient="auto-start-reverse"><path d="M1,5 L8,1 L15,5 L8,9 z" fill="#3b4a41" stroke="#3b4a41" stroke-width="1.1"/></marker>
+<marker id="crow" viewBox="0 0 14 14" refX="13" refY="7" markerWidth="14" markerHeight="14" orient="auto-start-reverse"><path d="M13,7 L1,1 M13,7 L1,13 M13,7 L1,7 M4,1 L4,13" fill="none" stroke="#3b4a41" stroke-width="1.1"/></marker>
+<marker id="one" viewBox="0 0 14 14" refX="13" refY="7" markerWidth="14" markerHeight="14" orient="auto-start-reverse"><path d="M13,7 L1,7 M6,1 L6,13 M10,1 L10,13" fill="none" stroke="#3b4a41" stroke-width="1.1"/></marker>
+</defs><rect width="100%" height="100%" fill="white"/>
+<line x1="80.0" y1="100.0" x2="80.0" y2="644.0" stroke="#8a9a90" stroke-width="1.2" stroke-dasharray="5,4"/>
+<circle cx="80.0" cy="34.0" r="8" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="80.0" y1="42.0" x2="80.0" y2="64.0" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="66.0" y1="50.0" x2="94.0" y2="50.0" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="80.0" y1="64.0" x2="69.0" y2="80.0" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="80.0" y1="64.0" x2="91.0" y2="80.0" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="80.0" y="96.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">Sales Manager</text>
+<circle cx="80.0" cy="645.0" r="8" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="80.0" y1="653.0" x2="80.0" y2="675.0" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="66.0" y1="661.0" x2="94.0" y2="661.0" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="80.0" y1="675.0" x2="69.0" y2="691.0" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="80.0" y1="675.0" x2="91.0" y2="691.0" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="80.0" y="707.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">Sales Manager</text>
+<line x1="270.0" y1="100.0" x2="270.0" y2="644.0" stroke="#8a9a90" stroke-width="1.2" stroke-dasharray="5,4"/>
+<rect x="229.2" y="52.0" width="81.7" height="28.0" rx="3" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="270.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">Sales Page</text>
+<rect x="229.2" y="661.0" width="81.7" height="28.0" rx="3" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="270.0" y="679.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">Sales Page</text>
+<line x1="460.0" y1="100.0" x2="460.0" y2="644.0" stroke="#8a9a90" stroke-width="1.2" stroke-dasharray="5,4"/>
+<rect x="420.9" y="52.0" width="78.3" height="28.0" rx="3" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="460.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">Sales API</text>
+<rect x="420.9" y="661.0" width="78.3" height="28.0" rx="3" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="460.0" y="679.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">Sales API</text>
+<line x1="650.0" y1="100.0" x2="650.0" y2="644.0" stroke="#8a9a90" stroke-width="1.2" stroke-dasharray="5,4"/>
+<rect x="597.4" y="52.0" width="105.2" height="28.0" rx="3" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="650.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">Stock Allocator</text>
+<rect x="597.4" y="661.0" width="105.2" height="28.0" rx="3" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="650.0" y="679.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">Stock Allocator</text>
+<line x1="840.0" y1="100.0" x2="840.0" y2="644.0" stroke="#8a9a90" stroke-width="1.2" stroke-dasharray="5,4"/>
+<rect x="804.0" y="52.0" width="71.9" height="28.0" rx="3" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="840.0" y="70.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">MongoDB</text>
+<rect x="804.0" y="661.0" width="71.9" height="28.0" rx="3" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="840.0" y="679.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">MongoDB</text>
+<rect x="265.0" y="104.0" width="10.0" height="494.0" rx="0" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="455.0" y="138.0" width="10.0" height="402.0" rx="0" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="645.0" y="240.0" width="10.0" height="266.0" rx="0" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="835.0" y="172.0" width="10.0" height="334.0" rx="0" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<rect x="200.0" y="310.0" width="710.0" height="252.0" rx="0" fill="none" stroke="#3b4a41" stroke-width="1"/>
+<path d="M200,310 h34 v10 l-6,6 h-28 z" fill="#dfe8dc" stroke="#3b4a41" stroke-width="1"/>
+<text x="206.0" y="322.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="start" style="font-weight:bold">alt</text>
+<text x="240.0" y="322.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="start" style="font-style:italic">[enough stock?]</text>
+<line x1="200.0" y1="474.0" x2="910.0" y2="474.0" stroke="#3b4a41" stroke-width="1.2" stroke-dasharray="6,4"/>
+<text x="206.0" y="487.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="start" style="font-style:italic">[insufficient]</text>
+<line x1="85.0" y1="110.0" x2="265.0" y2="110.0" stroke="#3b4a41" stroke-width="1.2" marker-end="url(#arrow)"/>
+<rect x="95.0" y="95.0" width="159.9" height="12.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="175.0" y="105.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="middle" style="">add customer, products, payment</text>
+<line x1="275.0" y1="144.0" x2="455.0" y2="144.0" stroke="#3b4a41" stroke-width="1.2" marker-end="url(#arrow)"/>
+<rect x="332.8" y="129.0" width="64.5" height="12.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="365.0" y="139.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="middle" style="">POST /sales</text>
+<line x1="465.0" y1="178.0" x2="835.0" y2="178.0" stroke="#3b4a41" stroke-width="1.2" marker-end="url(#arrow)"/>
+<rect x="556.1" y="163.0" width="187.8" height="12.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="650.0" y="173.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="middle" style="">verify customer &amp; variety belong to org</text>
+<line x1="835.0" y1="212.0" x2="465.0" y2="212.0" stroke="#3b4a41" stroke-width="1.2" stroke-dasharray="6,4" marker-end="url(#open)"/>
+<rect x="642.5" y="197.0" width="15.0" height="12.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="650.0" y="207.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="middle" style="font-style:italic">ok</text>
+<line x1="465.0" y1="246.0" x2="645.0" y2="246.0" stroke="#3b4a41" stroke-width="1.2" marker-end="url(#arrow)"/>
+<rect x="489.9" y="231.0" width="130.1" height="12.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="555.0" y="241.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="middle" style="">allocate(variety, grade, kg)</text>
+<line x1="655.0" y1="280.0" x2="835.0" y2="280.0" stroke="#3b4a41" stroke-width="1.2" marker-end="url(#arrow)"/>
+<rect x="657.9" y="265.0" width="174.2" height="12.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="745.0" y="275.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="middle" style="">decrement oldest lots (guarded $inc)</text>
+<line x1="645.0" y1="338.0" x2="465.0" y2="338.0" stroke="#3b4a41" stroke-width="1.2" stroke-dasharray="6,4" marker-end="url(#open)"/>
+<rect x="527.8" y="323.0" width="54.5" height="12.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="555.0" y="333.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="middle" style="font-style:italic">allocations</text>
+<line x1="465.0" y1="372.0" x2="835.0" y2="372.0" stroke="#3b4a41" stroke-width="1.2" marker-end="url(#arrow)"/>
+<rect x="572.8" y="357.0" width="154.4" height="12.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="650.0" y="367.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="middle" style="">insert order, stock transactions</text>
+<line x1="465.0" y1="406.0" x2="835.0" y2="406.0" stroke="#3b4a41" stroke-width="1.2" marker-end="url(#arrow)"/>
+<rect x="600.5" y="391.0" width="98.9" height="12.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="650.0" y="401.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="middle" style="">notify owner &amp; sales</text>
+<line x1="455.0" y1="440.0" x2="275.0" y2="440.0" stroke="#3b4a41" stroke-width="1.2" stroke-dasharray="6,4" marker-end="url(#open)"/>
+<rect x="317.3" y="425.0" width="95.4" height="12.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="365.0" y="435.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="middle" style="font-style:italic">201 order + invoice</text>
+<line x1="655.0" y1="498.0" x2="835.0" y2="498.0" stroke="#3b4a41" stroke-width="1.2" marker-end="url(#arrow)"/>
+<rect x="680.4" y="483.0" width="129.1" height="12.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="745.0" y="493.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="middle" style="">release already-taken lots</text>
+<line x1="455.0" y1="532.0" x2="275.0" y2="532.0" stroke="#3b4a41" stroke-width="1.2" stroke-dasharray="6,4" marker-end="url(#open)"/>
+<rect x="314.6" y="517.0" width="100.9" height="12.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="365.0" y="527.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="middle" style="font-style:italic">409 not enough stock</text>
+<line x1="265.0" y1="590.0" x2="85.0" y2="590.0" stroke="#3b4a41" stroke-width="1.2" stroke-dasharray="6,4" marker-end="url(#open)"/>
+<rect x="123.0" y="575.0" width="103.9" height="12.0" rx="0" fill="white" stroke="white" stroke-width="0"/>
+<text x="175.0" y="585.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="middle" style="font-style:italic">show invoice / error</text>
+</svg>

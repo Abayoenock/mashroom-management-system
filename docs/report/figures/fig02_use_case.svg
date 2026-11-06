@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="1000" viewBox="0 0 1180 1000"><defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3b4a41"/></marker>
+<marker id="open" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="10" markerHeight="10" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10" fill="none" stroke="#3b4a41" stroke-width="1.3"/></marker>
+<marker id="tri" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="13" markerHeight="13" orient="auto-start-reverse"><path d="M0,0 L12,6 L0,12 z" fill="white" stroke="#3b4a41" stroke-width="1.2"/></marker>
+<marker id="dia" viewBox="0 0 16 10" refX="1" refY="5" markerWidth="16" markerHeight="10" orient="auto-start-reverse"><path d="M1,5 L8,1 L15,5 L8,9 z" fill="white" stroke="#3b4a41" stroke-width="1.1"/></marker>
+<marker id="fdia" viewBox="0 0 16 10" refX="1" refY="5" markerWidth="16" markerHeight="10" orient="auto-start-reverse"><path d="M1,5 L8,1 L15,5 L8,9 z" fill="#3b4a41" stroke="#3b4a41" stroke-width="1.1"/></marker>
+<marker id="crow" viewBox="0 0 14 14" refX="13" refY="7" markerWidth="14" markerHeight="14" orient="auto-start-reverse"><path d="M13,7 L1,1 M13,7 L1,13 M13,7 L1,7 M4,1 L4,13" fill="none" stroke="#3b4a41" stroke-width="1.1"/></marker>
+<marker id="one" viewBox="0 0 14 14" refX="13" refY="7" markerWidth="14" markerHeight="14" orient="auto-start-reverse"><path d="M13,7 L1,7 M6,1 L6,13 M10,1 L10,13" fill="none" stroke="#3b4a41" stroke-width="1.1"/></marker>
+</defs><rect width="100%" height="100%" fill="white"/>
+<rect x="250.0" y="20.0" width="680.0" height="960.0" rx="0" fill="white" stroke="#3b4a41" stroke-width="1.4"/>
+<text x="590.0" y="44.0" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">MycoFarm – Mushroom Farm Management System</text>
+<ellipse cx="425.0" cy="90.0" rx="70.0" ry="19.0" fill="#f3f6f1" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="425.0" y="94.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="">Login / Logout</text>
+<ellipse cx="425.0" cy="149.0" rx="98.5" ry="19.0" fill="#f3f6f1" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="425.0" y="153.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="">Manage Organizations (tenants)</text>
+<ellipse cx="425.0" cy="208.0" rx="91.9" ry="19.0" fill="#f3f6f1" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="425.0" y="212.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="">Suspend / Reactivate Tenant</text>
+<ellipse cx="425.0" cy="267.0" rx="101.2" ry="19.0" fill="#f3f6f1" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="425.0" y="271.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="">Register Account &amp; Organization</text>
+<ellipse cx="425.0" cy="326.0" rx="109.1" ry="19.0" fill="#f3f6f1" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="425.0" y="330.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="">Manage Farms &amp; Cultivation Rooms</text>
+<ellipse cx="425.0" cy="385.0" rx="92.2" ry="19.0" fill="#f3f6f1" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="425.0" y="389.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="">Manage Mushroom Varieties</text>
+<ellipse cx="425.0" cy="444.0" rx="73.0" ry="19.0" fill="#f3f6f1" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="425.0" y="448.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="">Manage Users &amp; Staff</text>
+<ellipse cx="425.0" cy="503.0" rx="90.5" ry="19.0" fill="#f3f6f1" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="425.0" y="507.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="">View Dashboard &amp; Analytics</text>
+<ellipse cx="425.0" cy="562.0" rx="70.0" ry="19.0" fill="#f3f6f1" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="425.0" y="566.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="">Manage Expenses</text>
+<ellipse cx="425.0" cy="621.0" rx="87.2" ry="19.0" fill="#f3f6f1" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="425.0" y="625.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="">Generate &amp; Export Reports</text>
+<ellipse cx="425.0" cy="680.0" rx="81.2" ry="19.0" fill="#f3f6f1" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="425.0" y="684.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="">Create Production Batch</text>
+<ellipse cx="425.0" cy="739.0" rx="81.2" ry="19.0" fill="#f3f6f1" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="425.0" y="743.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="">Update Production Stage</text>
+<ellipse cx="425.0" cy="798.0" rx="84.2" ry="19.0" fill="#f3f6f1" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="425.0" y="802.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="">Approve / Reject Harvest</text>
+<ellipse cx="425.0" cy="857.0" rx="94.2" ry="19.0" fill="#f3f6f1" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="425.0" y="861.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="">Manage Inventory &amp; Supplies</text>
+<ellipse cx="425.0" cy="916.0" rx="70.0" ry="19.0" fill="#f3f6f1" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="425.0" y="920.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="">Assign Tasks</text>
+<ellipse cx="755.0" cy="130.0" rx="90.3" ry="19.0" fill="#f3f6f1" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="755.0" y="134.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="">Record Growth Observation</text>
+<ellipse cx="755.0" cy="206.0" rx="73.2" ry="19.0" fill="#f3f6f1" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="755.0" y="210.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="">Report Contamination</text>
+<ellipse cx="755.0" cy="282.0" rx="76.1" ry="19.0" fill="#f3f6f1" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="755.0" y="286.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="">Record Harvest (flush)</text>
+<ellipse cx="755.0" cy="358.0" rx="73.6" ry="19.0" fill="#f3f6f1" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="755.0" y="362.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="">View Assigned Tasks</text>
+<ellipse cx="755.0" cy="434.0" rx="71.8" ry="19.0" fill="#f3f6f1" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="755.0" y="438.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="">Receive Notifications</text>
+<ellipse cx="755.0" cy="510.0" rx="70.0" ry="19.0" fill="#f3f6f1" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="755.0" y="514.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="">Manage Customers</text>
+<ellipse cx="755.0" cy="586.0" rx="70.0" ry="19.0" fill="#f3f6f1" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="755.0" y="590.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="">Create Sales Order</text>
+<ellipse cx="755.0" cy="662.0" rx="71.3" ry="19.0" fill="#f3f6f1" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="755.0" y="666.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="">Deduct Stock (FIFO)</text>
+<ellipse cx="755.0" cy="738.0" rx="70.0" ry="19.0" fill="#f3f6f1" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="755.0" y="742.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="">Record Payment</text>
+<ellipse cx="755.0" cy="814.0" rx="78.4" ry="19.0" fill="#f3f6f1" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="755.0" y="818.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="">Print Invoice / Receipt</text>
+<ellipse cx="755.0" cy="890.0" rx="87.9" ry="19.0" fill="#f3f6f1" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="755.0" y="894.0" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#1f2a24" text-anchor="middle" style="">Update Stock Automatically</text>
+<circle cx="90.0" cy="88.0" r="8" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="90.0" y1="96.0" x2="90.0" y2="118.0" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="76.0" y1="104.0" x2="104.0" y2="104.0" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="90.0" y1="118.0" x2="79.0" y2="134.0" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="90.0" y1="118.0" x2="101.0" y2="134.0" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="90.0" y="150.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">Super Admin</text>
+<circle cx="90.0" cy="368.0" r="8" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="90.0" y1="376.0" x2="90.0" y2="398.0" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="76.0" y1="384.0" x2="104.0" y2="384.0" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="90.0" y1="398.0" x2="79.0" y2="414.0" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="90.0" y1="398.0" x2="101.0" y2="414.0" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="90.0" y="430.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">Farm Owner</text>
+<circle cx="90.0" cy="708.0" r="8" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="90.0" y1="716.0" x2="90.0" y2="738.0" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="76.0" y1="724.0" x2="104.0" y2="724.0" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="90.0" y1="738.0" x2="79.0" y2="754.0" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="90.0" y1="738.0" x2="101.0" y2="754.0" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="90.0" y="770.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">Farm Manager</text>
+<circle cx="1090.0" cy="198.0" r="8" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="1090.0" y1="206.0" x2="1090.0" y2="228.0" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="1076.0" y1="214.0" x2="1104.0" y2="214.0" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="1090.0" y1="228.0" x2="1079.0" y2="244.0" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="1090.0" y1="228.0" x2="1101.0" y2="244.0" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="1090.0" y="260.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">Farm Worker</text>
+<circle cx="1090.0" cy="608.0" r="8" fill="white" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="1090.0" y1="616.0" x2="1090.0" y2="638.0" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="1076.0" y1="624.0" x2="1104.0" y2="624.0" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="1090.0" y1="638.0" x2="1079.0" y2="654.0" stroke="#3b4a41" stroke-width="1.2"/>
+<line x1="1090.0" y1="638.0" x2="1101.0" y2="654.0" stroke="#3b4a41" stroke-width="1.2"/>
+<text x="1090.0" y="670.0" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1f2a24" text-anchor="middle" style="font-weight:bold">Sales Manager</text>
+<line x1="106.0" y1="110.0" x2="355.0" y2="90.0" stroke="#56665c" stroke-width="1"/>
+<line x1="106.0" y1="110.0" x2="326.5" y2="149.0" stroke="#56665c" stroke-width="1"/>
+<line x1="106.0" y1="110.0" x2="333.1" y2="208.0" stroke="#56665c" stroke-width="1"/>
+<line x1="106.0" y1="110.0" x2="352.0" y2="444.0" stroke="#56665c" stroke-width="1"/>
+<line x1="106.0" y1="390.0" x2="323.8" y2="267.0" stroke="#56665c" stroke-width="1"/>
+<line x1="106.0" y1="390.0" x2="355.0" y2="90.0" stroke="#56665c" stroke-width="1"/>
+<line x1="106.0" y1="390.0" x2="315.9" y2="326.0" stroke="#56665c" stroke-width="1"/>
+<line x1="106.0" y1="390.0" x2="332.8" y2="385.0" stroke="#56665c" stroke-width="1"/>
+<line x1="106.0" y1="390.0" x2="352.0" y2="444.0" stroke="#56665c" stroke-width="1"/>
+<line x1="106.0" y1="390.0" x2="334.5" y2="503.0" stroke="#56665c" stroke-width="1"/>
+<line x1="106.0" y1="390.0" x2="355.0" y2="562.0" stroke="#56665c" stroke-width="1"/>
+<line x1="106.0" y1="390.0" x2="337.8" y2="621.0" stroke="#56665c" stroke-width="1"/>
+<line x1="106.0" y1="730.0" x2="343.8" y2="680.0" stroke="#56665c" stroke-width="1"/>
+<line x1="106.0" y1="730.0" x2="343.8" y2="739.0" stroke="#56665c" stroke-width="1"/>
+<line x1="106.0" y1="730.0" x2="340.8" y2="798.0" stroke="#56665c" stroke-width="1"/>
+<line x1="106.0" y1="730.0" x2="330.8" y2="857.0" stroke="#56665c" stroke-width="1"/>
+<line x1="106.0" y1="730.0" x2="355.0" y2="916.0" stroke="#56665c" stroke-width="1"/>
+<line x1="106.0" y1="730.0" x2="334.5" y2="503.0" stroke="#56665c" stroke-width="1"/>
+<line x1="1074.0" y1="220.0" x2="845.3" y2="130.0" stroke="#56665c" stroke-width="1"/>
+<line x1="1074.0" y1="220.0" x2="831.1" y2="282.0" stroke="#56665c" stroke-width="1"/>
+<line x1="1074.0" y1="220.0" x2="828.5" y2="358.0" stroke="#56665c" stroke-width="1"/>
+<line x1="1074.0" y1="220.0" x2="826.8" y2="434.0" stroke="#56665c" stroke-width="1"/>
+<line x1="1074.0" y1="630.0" x2="825.0" y2="510.0" stroke="#56665c" stroke-width="1"/>
+<line x1="1074.0" y1="630.0" x2="825.0" y2="586.0" stroke="#56665c" stroke-width="1"/>
+<line x1="1074.0" y1="630.0" x2="825.0" y2="738.0" stroke="#56665c" stroke-width="1"/>
+<line x1="1074.0" y1="630.0" x2="833.4" y2="814.0" stroke="#56665c" stroke-width="1"/>
+<line x1="1074.0" y1="630.0" x2="826.8" y2="434.0" stroke="#56665c" stroke-width="1"/>
+<line x1="755.0" y1="149.0" x2="755.0" y2="187.0" stroke="#3b4a41" stroke-width="1.2" stroke-dasharray="5,4" marker-end="url(#open)"/>
+<text x="759.0" y="164.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="start" style="font-style:italic">«extend»</text>
+<line x1="509.2" y1="798.0" x2="667.1" y2="890.0" stroke="#3b4a41" stroke-width="1.2" stroke-dasharray="5,4" marker-end="url(#open)"/>
+<text x="592.2" y="840.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="start" style="font-style:italic">«include»</text>
+<line x1="755.0" y1="605.0" x2="755.0" y2="643.0" stroke="#3b4a41" stroke-width="1.2" stroke-dasharray="5,4" marker-end="url(#open)"/>
+<text x="759.0" y="620.0" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#1f2a24" text-anchor="start" style="font-style:italic">«include»</text>
+</svg>
