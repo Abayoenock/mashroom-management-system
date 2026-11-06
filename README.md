@@ -3,23 +3,208 @@
 A working full-stack prototype: **React + Vite + TypeScript + Tailwind v4 + shadcn/ui** frontend, **Flask** REST API, **MongoDB**.
 Every screen reads and writes real API endpoints. Dashboard numbers come from MongoDB aggregations, not hardcoded values.
 
-## Quick start
+## Getting started
 
-Prerequisites: Python 3.11+, Node 20+, and MongoDB running locally on `mongodb://localhost:27017`.
+The app has three parts, each running in its own terminal:
+
+| Part | Folder | URL |
+|---|---|---|
+| MongoDB database | (system service) | `mongodb://localhost:27017` |
+| Flask API | `backend/` | http://127.0.0.1:5050 |
+| React web app | `frontend/` | http://localhost:5173 (open this one in the browser) |
+
+### 0. Prerequisites (check once)
 
 ```bash
-# 1. API
-cd backend
-python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
-cp .env.example .env            # then set JWT_SECRET_KEY
-.venv/bin/python seed.py        # WARNING: drops and recreates the `mycofarm` database
-.venv/bin/python run.py         # http://127.0.0.1:5050
-
-# 2. Web app (new terminal)
-cd frontend
-npm install
-npm run dev                     # http://localhost:5173  (proxies /api to :5050)
+python3 --version     # 3.11 or newer
+node --version        # v20 or newer
+npm --version
+mongod --version      # MongoDB 6 or newer
 ```
+
+#### Installing MongoDB + MongoDB Compass
+
+You need two things:
+
+- **MongoDB Community Server**: the database itself. The app cannot run without it.
+- **MongoDB Compass**: a desktop app to *view and browse* the data. It does not replace the server.
+
+**macOS (Homebrew)**
+
+```bash
+brew tap mongodb/brew
+brew install mongodb-community          # the database server
+brew install --cask mongodb-compass     # the Compass desktop app
+```
+
+**Windows**
+
+1. Download **MongoDB Community Server** (MSI) from https://www.mongodb.com/try/download/community.
+2. Run the installer, choose **Complete**, and keep **"Install MongoD as a Service"** ticked so the database starts
+   automatically with Windows.
+3. Keep **"Install MongoDB Compass"** ticked in the same installer (or download Compass separately from
+   https://www.mongodb.com/try/download/compass).
+
+#### Viewing the data in Compass
+
+1. Open **MongoDB Compass**.
+2. Paste the connection string `mongodb://localhost:27017` and click **Connect**.
+3. Open the **`mycofarm`** database (it appears after running `seed.py` or using the app) to browse collections such as
+   `users`, `farms`, `production_batches`, `harvests` and `sales`.
+
+> Avoid editing or deleting documents in Compass while the app is running unless you know what you are changing: the
+> app relies on links between collections (e.g. a sale points to its customer and stock lots).
+
+### 1. First-time installation (run once)
+
+All commands start from the project root (the folder containing `backend/` and `frontend/`).
+
+**Step 1: Start MongoDB**
+
+```bash
+brew services start mongodb-community      # macOS / Homebrew
+```
+
+On **Windows** the MongoDB service starts automatically. If it isn't running, start it from an Administrator terminal
+with `net start MongoDB`.
+
+To confirm it's running, open **MongoDB Compass** and connect to `mongodb://localhost:27017`. If it connects, the
+database is up.
+
+**Step 2: Set up the API**
+
+**2a. Go to the backend folder and create the virtual environment** (only once):
+
+```bash
+cd backend
+python3 -m venv .venv
+```
+
+**2b. Activate the virtual environment:**
+
+```bash
+# macOS / Linux
+source .venv/bin/activate
+
+# Windows (PowerShell)
+.venv\Scripts\Activate.ps1
+
+# Windows (Command Prompt)
+.venv\Scripts\activate.bat
+```
+
+When it's active, your prompt starts with **`(.venv)`**. All the next backend commands must be run in this activated
+terminal.
+
+> On Windows, if PowerShell refuses to run the activate script, run this once and try again:
+> `Set-ExecutionPolicy -Scope CurrentUser RemoteSigned`
+
+**2c. With the environment activated, install the packages and create the config:**
+
+```bash
+pip install -r requirements.txt
+cp .env.example .env          # Windows: copy .env.example .env
+```
+
+Open `backend/.env` and set at least:
+
+```ini
+JWT_SECRET_KEY=<a long random string>
+SUPERADMIN_NAME=Your Name
+SUPERADMIN_EMAIL=admin@example.com
+SUPERADMIN_PASSWORD=<at least 8 characters>
+```
+
+To generate a random secret:
+
+```bash
+python -c "import secrets; print(secrets.token_urlsafe(32))"
+```
+
+**2d. Still in the activated environment, load the demo data and start the API:**
+
+```bash
+python seed.py    # creates the super admin + demo organizations, farms, batches, sales…
+python run.py     # API now running on http://127.0.0.1:5050 — keep this terminal open
+```
+
+**Step 3: Set up the web app** (in a **new terminal**)
+
+```bash
+cd frontend
+npm install                 # install JavaScript packages
+npm run dev                 # web app now running on http://localhost:5173 — keep this terminal open
+```
+
+**Step 4: Open http://localhost:5173.** Click **Demo accounts** (bottom-right of the sign-in page) to log in as any role,
+or sign in as the super admin with the email and password from `backend/.env`.
+
+### 2. Running the project again (every time after)
+
+No reinstalling is needed. Start the three parts again.
+
+**Terminal 1: database** (skip if it already runs as a service, which is the default on Windows)
+
+```bash
+brew services start mongodb-community      # macOS
+```
+
+**Terminal 2: API.** First activate the environment:
+
+```bash
+cd backend
+source .venv/bin/activate          # Windows PowerShell: .venv\Scripts\Activate.ps1
+```
+
+Then, with `(.venv)` showing in the prompt, start the API:
+
+```bash
+python run.py
+```
+
+**Terminal 3: web app** (no environment needed)
+
+```bash
+cd frontend
+npm run dev
+```
+
+Then open http://localhost:5173. Your data is kept between runs. **Do not run `seed.py` again unless you want to reset it.**
+
+To stop everything, press `Ctrl + C` in the API and web-app terminals. Type `deactivate` to leave the Python
+environment. Then optionally:
+
+```bash
+brew services stop mongodb-community       # macOS  (Windows, as Administrator: net stop MongoDB)
+```
+
+### 3. Useful commands
+
+Backend commands below assume you are in `backend/` **with the environment activated** (`source .venv/bin/activate`,
+or `.venv\Scripts\Activate.ps1` on Windows).
+
+| Task | Command (run inside the folder shown) |
+|---|---|
+| Reset the database to fresh demo data (**deletes all data**) | `backend/` (activated): `python seed.py` |
+| Install new Python packages after pulling changes | `backend/` (activated): `pip install -r requirements.txt` |
+| Install new JS packages after pulling changes | `frontend/`: `npm install` |
+| Type-check and build the frontend for production | `frontend/`: `npm run build` (output in `frontend/dist/`) |
+| Preview the production build | `frontend/`: `npm run preview` |
+| Check the API is up | `curl http://127.0.0.1:5050/api/v1/health` |
+| Run the API on another port | `backend/` (activated): `PORT=5051 python run.py`. Windows: `$env:PORT=5051; python run.py`. Also update the proxy in `frontend/vite.config.ts`. |
+
+### 4. Troubleshooting
+
+| Problem | Fix |
+|---|---|
+| `ServerSelectionTimeoutError` / API won't start | MongoDB isn't running. Start it (step 1), then check that Compass can connect to `mongodb://localhost:27017`. |
+| Compass connects but there is no `mycofarm` database | In `backend/` with the environment activated, run `python seed.py` (or register an account in the app), then click refresh in Compass. |
+| `ModuleNotFoundError: No module named 'flask'` | The environment isn't activated. Run `source .venv/bin/activate` (Windows: `.venv\Scripts\Activate.ps1`) in `backend/` and try again. |
+| `python: command not found` (macOS/Linux) before activating | Use `python3` to create the environment; after activation, `python` works. |
+| `Set SUPERADMIN_EMAIL and SUPERADMIN_PASSWORD…` when seeding | Fill those values in `backend/.env`. |
+| Login page shows "Network Error" / data doesn't load | The API isn't running on port 5050. Start it in its own terminal. |
+| `Address already in use` | Another process uses the port. Stop it, or change `PORT` (API) / `npm run dev -- --port 5174` (web app). |
+| Logged out unexpectedly after reseeding | Seeding replaces all users. Sign in again. |
 
 ### Accounts
 
